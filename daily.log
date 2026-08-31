@@ -1,1 +1,1 @@
-test: add unit test for edge case - 2026-08-30
+fix: resolve undefined variable on session - 2026-08-31
