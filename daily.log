@@ -1,1 +1,1 @@
-fix: resolve undefined variable on session - 2026-08-31
+fix: resolve race condition on async - 2026-09-02
