@@ -1,1 +1,1 @@
-chore: remove unused imports & dead code - 2026-09-05
+fix: patch memory leak on long process - 2026-09-06
