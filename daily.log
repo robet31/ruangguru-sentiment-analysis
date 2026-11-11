@@ -1,1 +1,1 @@
-fix: sanitize input to prevent injection - 2026-11-07
+fix: resolve undefined variable on session - 2026-11-11
