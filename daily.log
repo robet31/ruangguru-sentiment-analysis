@@ -1,1 +1,1 @@
-refactor: simplify nested conditional - 2026-11-22
+fix: patch memory leak on long process - 2026-11-26
