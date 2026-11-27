@@ -1,1 +1,1 @@
-fix: patch memory leak on long process - 2026-11-26
+feat: add validation for edge case input - 2026-11-27
